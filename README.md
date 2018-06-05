@@ -1,1 +1,1 @@
-# workplace-chat-seen-bloker
+# workplace-chat-seen-blocker
